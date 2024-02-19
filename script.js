@@ -17,7 +17,7 @@ const countries = [
     {code: 'AUD', name: 'Australian Dollar	'},
     {code: 'ANG', name: 'Netherlands Antillean Guilder'},
     {code: 'EGP', name: 'Egyptian Pound'},
-    {code: 'YEN', name: 'JAPAN'},
+    {code: 'BMD', name: 'Bermudian Dollar'},
     {code: 'HKD', name: 'Hong Kong Dollar'},
 ];
 
